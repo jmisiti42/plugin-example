@@ -1,0 +1,11 @@
+main: author.servername.pluginname.Main
+name: pluginname
+version: 1.0
+author: author
+description: Plugin description
+commands:
+    commandname:
+    description: Command description
+    usage: /command
+    permission: permissionplugin.commandname
+    permission-message: You don't have the permissionplugin.commandname permission.
